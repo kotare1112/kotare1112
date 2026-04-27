@@ -15,3 +15,5 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kotare1112&show_icons=true&theme=default)
 
 ![GitHub followers](https://img.shields.io/github/followers/kotare1112?label=Follow&style=social)
+
+![プロフィール画像](images/スクリーンショット 2026-04-27 21.59.48.png)
