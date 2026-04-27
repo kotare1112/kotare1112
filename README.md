@@ -7,3 +7,4 @@
 
 ## これから作りたいもの
 <ゲームのまとめサイト、ホームページ>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kotare1112&show_icons=true&theme=default)
