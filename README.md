@@ -31,3 +31,4 @@
 ## 📊 GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kotare1112&show_icons=true&theme=default&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kotare1112&layout=compact&langs_count=6&theme=default)
